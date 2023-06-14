@@ -12,9 +12,10 @@ Nosso objetivo é fornecer uma plataforma que facilite a troca de serviços volu
 
 ## Colaboradores
 
-- Camila Sbrussi: Camila é uma das mentes criativas por trás do BeeHeroes. Além de ter concebido a ideia do projeto, ela também está ativamente envolvida no desenvolvimento e construção da plataforma. Com formação em Engenharia de Software e experiência em projetos Front-end, Camila traz sua paixão pela tecnologia e seu conhecimento técnico para tornar o BeeHeroes uma realidade.
+- Camila Sbrussi: Camila é uma das mentes criativas por trás do BeeHeroes. Além de ter concebido a ideia do projeto, ela também está ativamente envolvida no desenvolvimento e construção da plataforma. Com formação em Engenharia de Software e experiência em projetos Front-end, Camila traz sua paixão pela tecnologia e seu conhecimento técnico para tornar o BeeHeroes uma realidade. [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/camisbrussi/) [![GitHub](https://img.shields.io/badge/GitHub--black?style=social&logo=github)](https://github.com/camisbrussi)
 
-- Douglas Schneider: Douglas é um talentoso arquiteto de software formado em Engenharia da Computação. Sua paixão por trabalhar em projetos mobile o levou a se especializar em Flutter. Com sua experiência e conhecimento técnico, ele desempenha um papel fundamental na construção e arquitetura da plataforma BeeHeroes.
+
+- Douglas Schneider: Douglas é um talentoso arquiteto de software formado em Engenharia da Computação. Sua paixão por trabalhar em projetos mobile o levou a se especializar em Flutter. Com sua experiência e conhecimento técnico, ele desempenha um papel fundamental na construção e arquitetura da plataforma BeeHeroes. [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dougsschneider/) [![GitHub](https://img.shields.io/badge/GitHub--black?style=social&logo=github)](https://github.com/DougsSc)
 
 ## Como Participar
 
@@ -28,7 +29,10 @@ Acreditamos que juntos podemos criar uma plataforma vibrante e impactante que in
 
 ## Entre em Contato
 
-Se você tiver alguma dúvida, feedback ou gostaria de saber mais sobre o BeeHeroes, entre em contato conosco em [email protected]
+Se você tiver alguma dúvida, feedback ou gostaria de saber mais sobre o BeeHeroes, entre em contato conosco
+</br>[Camila Sbrussi](https://www.linkedin.com/in/camisbrussi/)
+</br>[Douglas Schneider](https://www.linkedin.com/in/dougsschneider/) 
+
 
 Agradecemos seu interesse no BeeHeroes!
 
